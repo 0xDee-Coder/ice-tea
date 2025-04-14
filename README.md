@@ -6,11 +6,7 @@
 - Auto claim reward
 - Auto faucet (2captcha)
 - Multi-threaded, multi-account, random user agents, etc.
-⚠️
-- Reminder: if you don't KYC through zkPass, running the bot is useless. 
-- Those wallets are only used for fauceting and then transferring to the main wallet (but doing it this way makes it easy to get sybil attacks). 
-- In summary, if you have experience, play by yourself, if you want safety, besides sending to your main wallet,
-- you should also send to the developer's wallet (around 5 wallets)
+
 
 ## Installation
 
@@ -41,6 +37,12 @@ nano privateKeys.txt
 ```bash
 node main
 ```
+⚠️
+- Reminder: if you don't KYC through zkPass, running the bot is useless. 
+- Those wallets are only used for fauceting and then transferring to the main wallet (but doing it this way makes it easy to get sybil attacks). 
+- In summary, if you have experience, play by yourself, if you want safety, besides sending to your main wallet,
+- you should also send to the developer's wallet (around 5 wallets)
+
 ## Contributing
 
 Feel free to fork this repository and submit pull requests for any improvements.
