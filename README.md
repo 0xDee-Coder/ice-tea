@@ -16,7 +16,8 @@
 git clone https://github.com/0xDee-Coder/ice-tea.git
 cd ice-tea
 ```
-- set the ref_code & 2Captcha API key in the .env file (2Captcha will be use for Auto Faucet)
+- set the ref_code & 2Captcha API key in the .env file 
+- 2Captcha will be use for Auto Faucet)
 ```bash
 nano .env
 ```
